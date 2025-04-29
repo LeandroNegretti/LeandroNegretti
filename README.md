@@ -1,8 +1,8 @@
 ### Hi, I'm Leandro Negretti 
 ##
-##
-### 🤖 Linguagens e Tecnologias
 
+### 🤖 Linguagens e Tecnologias
+<br/>
 <img 
     align="left" 
     alt="HTML"
