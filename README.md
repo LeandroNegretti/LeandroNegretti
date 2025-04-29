@@ -90,6 +90,7 @@
 <br/>
 
 ### 📊 Estatísticas
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
